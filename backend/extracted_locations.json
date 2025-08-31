@@ -1,0 +1,3481 @@
+{
+  "LOC_-0.51_29.29": {
+    "lat": -0.51,
+    "lon": 29.29,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.528_29.472": {
+    "lat": -0.528,
+    "lon": 29.472,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.547_29.653": {
+    "lat": -0.547,
+    "lon": 29.653,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.569_30.031": {
+    "lat": -0.569,
+    "lon": 30.031,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.598_29.102": {
+    "lat": -0.598,
+    "lon": 29.102,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.604_29.896": {
+    "lat": -0.604,
+    "lon": 29.896,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.615_30.885": {
+    "lat": -0.615,
+    "lon": 30.885,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.627_29.773": {
+    "lat": -0.627,
+    "lon": 29.773,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.637_30.763": {
+    "lat": -0.637,
+    "lon": 30.763,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.653_30.447": {
+    "lat": -0.653,
+    "lon": 30.447,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.659_30.341": {
+    "lat": -0.659,
+    "lon": 30.341,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.667_30.433": {
+    "lat": -0.667,
+    "lon": 30.433,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.677_29.623": {
+    "lat": -0.677,
+    "lon": 29.623,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.702_29.798": {
+    "lat": -0.702,
+    "lon": 29.798,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.72_30.48": {
+    "lat": -0.72,
+    "lon": 30.48,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.726_29.374": {
+    "lat": -0.726,
+    "lon": 29.374,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.727_30.573": {
+    "lat": -0.727,
+    "lon": 30.573,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.766_29.534": {
+    "lat": -0.766,
+    "lon": 29.534,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.785_29.115": {
+    "lat": -0.785,
+    "lon": 29.115,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.787_30.513": {
+    "lat": -0.787,
+    "lon": 30.513,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.793_30.607": {
+    "lat": -0.793,
+    "lon": 30.607,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.798_29.402": {
+    "lat": -0.798,
+    "lon": 29.402,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.799_29.201": {
+    "lat": -0.799,
+    "lon": 29.201,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.801_29.499": {
+    "lat": -0.801,
+    "lon": 29.499,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.806_31.494": {
+    "lat": -0.806,
+    "lon": 31.494,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.829_30.471": {
+    "lat": -0.829,
+    "lon": 30.471,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.837_29.863": {
+    "lat": -0.837,
+    "lon": 29.863,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.843_30.657": {
+    "lat": -0.843,
+    "lon": 30.657,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.853_30.647": {
+    "lat": -0.853,
+    "lon": 30.647,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.855_30.145": {
+    "lat": -0.855,
+    "lon": 30.145,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.859_30.441": {
+    "lat": -0.859,
+    "lon": 30.441,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.866_30.734": {
+    "lat": -0.866,
+    "lon": 30.734,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.869_29.231": {
+    "lat": -0.869,
+    "lon": 29.231,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.871_30.029": {
+    "lat": -0.871,
+    "lon": 30.029,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.905_29.495": {
+    "lat": -0.905,
+    "lon": 29.495,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.905_29.995": {
+    "lat": -0.905,
+    "lon": 29.995,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.915_28.985": {
+    "lat": -0.915,
+    "lon": 28.985,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.925_29.875": {
+    "lat": -0.925,
+    "lon": 29.875,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.933_29.267": {
+    "lat": -0.933,
+    "lon": 29.267,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.935_29.765": {
+    "lat": -0.935,
+    "lon": 29.765,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.938_29.262": {
+    "lat": -0.938,
+    "lon": 29.262,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.942_30.258": {
+    "lat": -0.942,
+    "lon": 30.258,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.95_31.45": {
+    "lat": -0.95,
+    "lon": 31.45,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.956_30.744": {
+    "lat": -0.956,
+    "lon": 30.744,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.963_30.237": {
+    "lat": -0.963,
+    "lon": 30.237,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.964_29.436": {
+    "lat": -0.964,
+    "lon": 29.436,
+    "type": "industrial",
+    "region": "Northwestern Region",
+    "source": "both"
+  },
+  "LOC_-0.964_29.636": {
+    "lat": -0.964,
+    "lon": 29.636,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.965_29.735": {
+    "lat": -0.965,
+    "lon": 29.735,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.972_29.628": {
+    "lat": -0.972,
+    "lon": 29.628,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.972_30.628": {
+    "lat": -0.972,
+    "lon": 30.628,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.978_29.722": {
+    "lat": -0.978,
+    "lon": 29.722,
+    "type": "industrial",
+    "region": "Northern Province",
+    "source": "both"
+  },
+  "LOC_-0.986_30.214": {
+    "lat": -0.986,
+    "lon": 30.214,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.989_30.411": {
+    "lat": -0.989,
+    "lon": 30.411,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.997_30.403": {
+    "lat": -0.997,
+    "lon": 30.403,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-0.997_30.603": {
+    "lat": -0.997,
+    "lon": 30.603,
+    "type": "urban",
+    "region": "Eastern Province",
+    "source": "both"
+  },
+  "LOC_-1.0_29.8": {
+    "lat": -1.0,
+    "lon": 29.8,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.003_29.497": {
+    "lat": -1.003,
+    "lon": 29.497,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.004_31.396": {
+    "lat": -1.004,
+    "lon": 31.396,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.014_29.786": {
+    "lat": -1.014,
+    "lon": 29.786,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.024_28.976": {
+    "lat": -1.024,
+    "lon": 28.976,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.036_28.964": {
+    "lat": -1.036,
+    "lon": 28.964,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.041_29.859": {
+    "lat": -1.041,
+    "lon": 29.859,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.043_29.057": {
+    "lat": -1.043,
+    "lon": 29.057,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.045_30.455": {
+    "lat": -1.045,
+    "lon": 30.455,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.048_30.252": {
+    "lat": -1.048,
+    "lon": 30.252,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.052_30.948": {
+    "lat": -1.052,
+    "lon": 30.948,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.062_28.838": {
+    "lat": -1.062,
+    "lon": 28.838,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.065_31.035": {
+    "lat": -1.065,
+    "lon": 31.035,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.066_29.734": {
+    "lat": -1.066,
+    "lon": 29.734,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.067_29.833": {
+    "lat": -1.067,
+    "lon": 29.833,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.068_31.332": {
+    "lat": -1.068,
+    "lon": 31.332,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.068_31.532": {
+    "lat": -1.068,
+    "lon": 31.532,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.07_29.33": {
+    "lat": -1.07,
+    "lon": 29.33,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.07_30.03": {
+    "lat": -1.07,
+    "lon": 30.03,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.074_29.826": {
+    "lat": -1.074,
+    "lon": 29.826,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.076_28.724": {
+    "lat": -1.076,
+    "lon": 28.724,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.084_29.616": {
+    "lat": -1.084,
+    "lon": 29.616,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.085_29.215": {
+    "lat": -1.085,
+    "lon": 29.215,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.092_31.108": {
+    "lat": -1.092,
+    "lon": 31.108,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.097_29.903": {
+    "lat": -1.097,
+    "lon": 29.903,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.105_29.995": {
+    "lat": -1.105,
+    "lon": 29.995,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.115_30.085": {
+    "lat": -1.115,
+    "lon": 30.085,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.116_29.684": {
+    "lat": -1.116,
+    "lon": 29.684,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.117_29.883": {
+    "lat": -1.117,
+    "lon": 29.883,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.118_30.282": {
+    "lat": -1.118,
+    "lon": 30.282,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.129_31.371": {
+    "lat": -1.129,
+    "lon": 31.371,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.13_30.07": {
+    "lat": -1.13,
+    "lon": 30.07,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.139_30.561": {
+    "lat": -1.139,
+    "lon": 30.561,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.143_30.957": {
+    "lat": -1.143,
+    "lon": 30.957,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.163_29.537": {
+    "lat": -1.163,
+    "lon": 29.537,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.167_30.633": {
+    "lat": -1.167,
+    "lon": 30.633,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.168_30.232": {
+    "lat": -1.168,
+    "lon": 30.232,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.17_29.33": {
+    "lat": -1.17,
+    "lon": 29.33,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.171_31.329": {
+    "lat": -1.171,
+    "lon": 31.329,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.173_30.727": {
+    "lat": -1.173,
+    "lon": 30.727,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.176_30.624": {
+    "lat": -1.176,
+    "lon": 30.624,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.176_31.324": {
+    "lat": -1.176,
+    "lon": 31.324,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.176_31.524": {
+    "lat": -1.176,
+    "lon": 31.524,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.185_28.915": {
+    "lat": -1.185,
+    "lon": 28.915,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.187_31.113": {
+    "lat": -1.187,
+    "lon": 31.113,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.196_30.404": {
+    "lat": -1.196,
+    "lon": 30.404,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.2_31.0": {
+    "lat": -1.2,
+    "lon": 31.0,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.203_31.397": {
+    "lat": -1.203,
+    "lon": 31.397,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.207_30.693": {
+    "lat": -1.207,
+    "lon": 30.693,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.211_30.389": {
+    "lat": -1.211,
+    "lon": 30.389,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.214_30.786": {
+    "lat": -1.214,
+    "lon": 30.786,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.223_29.377": {
+    "lat": -1.223,
+    "lon": 29.377,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.223_29.877": {
+    "lat": -1.223,
+    "lon": 29.877,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.225_30.975": {
+    "lat": -1.225,
+    "lon": 30.975,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.226_30.274": {
+    "lat": -1.226,
+    "lon": 30.274,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.231_30.269": {
+    "lat": -1.231,
+    "lon": 30.269,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.231_30.969": {
+    "lat": -1.231,
+    "lon": 30.969,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.242_30.658": {
+    "lat": -1.242,
+    "lon": 30.658,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.244_29.856": {
+    "lat": -1.244,
+    "lon": 29.856,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.252_28.848": {
+    "lat": -1.252,
+    "lon": 28.848,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.258_30.042": {
+    "lat": -1.258,
+    "lon": 30.042,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.267_29.233": {
+    "lat": -1.267,
+    "lon": 29.233,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.274_29.926": {
+    "lat": -1.274,
+    "lon": 29.926,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.279_30.521": {
+    "lat": -1.279,
+    "lon": 30.521,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.283_30.417": {
+    "lat": -1.283,
+    "lon": 30.417,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.289_28.911": {
+    "lat": -1.289,
+    "lon": 28.911,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.289_29.711": {
+    "lat": -1.289,
+    "lon": 29.711,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.292_29.408": {
+    "lat": -1.292,
+    "lon": 29.408,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.299_29.601": {
+    "lat": -1.299,
+    "lon": 29.601,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.303_28.997": {
+    "lat": -1.303,
+    "lon": 28.997,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.307_30.393": {
+    "lat": -1.307,
+    "lon": 30.393,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.315_29.785": {
+    "lat": -1.315,
+    "lon": 29.785,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.319_30.281": {
+    "lat": -1.319,
+    "lon": 30.281,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.327_30.973": {
+    "lat": -1.327,
+    "lon": 30.973,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.328_28.872": {
+    "lat": -1.328,
+    "lon": 28.872,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.331_29.669": {
+    "lat": -1.331,
+    "lon": 29.669,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.335_29.465": {
+    "lat": -1.335,
+    "lon": 29.465,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.339_29.961": {
+    "lat": -1.339,
+    "lon": 29.961,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.342_29.258": {
+    "lat": -1.342,
+    "lon": 29.258,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.342_30.158": {
+    "lat": -1.342,
+    "lon": 30.158,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.342_31.358": {
+    "lat": -1.342,
+    "lon": 31.358,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.346_31.254": {
+    "lat": -1.346,
+    "lon": 31.254,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.348_29.552": {
+    "lat": -1.348,
+    "lon": 29.552,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.355_30.245": {
+    "lat": -1.355,
+    "lon": 30.245,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.355_30.645": {
+    "lat": -1.355,
+    "lon": 30.645,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.36_30.34": {
+    "lat": -1.36,
+    "lon": 30.34,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.364_29.036": {
+    "lat": -1.364,
+    "lon": 29.036,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.366_29.434": {
+    "lat": -1.366,
+    "lon": 29.434,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.368_30.932": {
+    "lat": -1.368,
+    "lon": 30.932,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.371_29.629": {
+    "lat": -1.371,
+    "lon": 29.629,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.383_29.917": {
+    "lat": -1.383,
+    "lon": 29.917,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.384_28.916": {
+    "lat": -1.384,
+    "lon": 28.916,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.398_29.702": {
+    "lat": -1.398,
+    "lon": 29.702,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.399_29.601": {
+    "lat": -1.399,
+    "lon": 29.601,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.4_30.0": {
+    "lat": -1.4,
+    "lon": 30.0,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.408_31.292": {
+    "lat": -1.408,
+    "lon": 31.292,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.41_31.39": {
+    "lat": -1.41,
+    "lon": 31.39,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.412_31.188": {
+    "lat": -1.412,
+    "lon": 31.188,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.413_30.287": {
+    "lat": -1.413,
+    "lon": 30.287,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.416_31.284": {
+    "lat": -1.416,
+    "lon": 31.284,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.427_30.073": {
+    "lat": -1.427,
+    "lon": 30.073,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.429_30.171": {
+    "lat": -1.429,
+    "lon": 30.171,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.429_30.971": {
+    "lat": -1.429,
+    "lon": 30.971,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.444_30.856": {
+    "lat": -1.444,
+    "lon": 30.856,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.45_29.35": {
+    "lat": -1.45,
+    "lon": 29.35,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.482_30.618": {
+    "lat": -1.482,
+    "lon": 30.618,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.486_29.314": {
+    "lat": -1.486,
+    "lon": 29.314,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.486_29.614": {
+    "lat": -1.486,
+    "lon": 29.614,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.49_30.31": {
+    "lat": -1.49,
+    "lon": 30.31,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.49_30.51": {
+    "lat": -1.49,
+    "lon": 30.51,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.492_30.308": {
+    "lat": -1.492,
+    "lon": 30.308,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.497_30.603": {
+    "lat": -1.497,
+    "lon": 30.603,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.505_30.995": {
+    "lat": -1.505,
+    "lon": 30.995,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.51_29.89": {
+    "lat": -1.51,
+    "lon": 29.89,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.51_30.19": {
+    "lat": -1.51,
+    "lon": 30.19,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.514_29.686": {
+    "lat": -1.514,
+    "lon": 29.686,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.516_28.984": {
+    "lat": -1.516,
+    "lon": 28.984,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.523_30.677": {
+    "lat": -1.523,
+    "lon": 30.677,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.526_29.874": {
+    "lat": -1.526,
+    "lon": 29.874,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.528_29.972": {
+    "lat": -1.528,
+    "lon": 29.972,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.528_31.372": {
+    "lat": -1.528,
+    "lon": 31.372,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.529_30.971": {
+    "lat": -1.529,
+    "lon": 30.971,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.53_30.87": {
+    "lat": -1.53,
+    "lon": 30.87,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.532_28.568": {
+    "lat": -1.532,
+    "lon": 28.568,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.533_28.467": {
+    "lat": -1.533,
+    "lon": 28.467,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.533_29.967": {
+    "lat": -1.533,
+    "lon": 29.967,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.534_30.366": {
+    "lat": -1.534,
+    "lon": 30.366,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.534_31.466": {
+    "lat": -1.534,
+    "lon": 31.466,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.536_28.364": {
+    "lat": -1.536,
+    "lon": 28.364,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.555_30.945": {
+    "lat": -1.555,
+    "lon": 30.945,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.581_30.819": {
+    "lat": -1.581,
+    "lon": 30.819,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.583_28.517": {
+    "lat": -1.583,
+    "lon": 28.517,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.593_30.207": {
+    "lat": -1.593,
+    "lon": 30.207,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.596_29.404": {
+    "lat": -1.596,
+    "lon": 29.404,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.597_29.603": {
+    "lat": -1.597,
+    "lon": 29.603,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.606_30.294": {
+    "lat": -1.606,
+    "lon": 30.294,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.609_29.391": {
+    "lat": -1.609,
+    "lon": 29.391,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.613_28.487": {
+    "lat": -1.613,
+    "lon": 28.487,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.615_30.285": {
+    "lat": -1.615,
+    "lon": 30.285,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.617_30.683": {
+    "lat": -1.617,
+    "lon": 30.683,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.621_30.479": {
+    "lat": -1.621,
+    "lon": 30.479,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.639_31.061": {
+    "lat": -1.639,
+    "lon": 31.061,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.641_31.259": {
+    "lat": -1.641,
+    "lon": 31.259,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.649_29.351": {
+    "lat": -1.649,
+    "lon": 29.351,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.659_29.641": {
+    "lat": -1.659,
+    "lon": 29.641,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.664_30.336": {
+    "lat": -1.664,
+    "lon": 30.336,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.667_30.933": {
+    "lat": -1.667,
+    "lon": 30.933,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.682_29.218": {
+    "lat": -1.682,
+    "lon": 29.218,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.683_29.617": {
+    "lat": -1.683,
+    "lon": 29.617,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.683_31.217": {
+    "lat": -1.683,
+    "lon": 31.217,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.69_28.51": {
+    "lat": -1.69,
+    "lon": 28.51,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.695_31.405": {
+    "lat": -1.695,
+    "lon": 31.405,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.696_28.304": {
+    "lat": -1.696,
+    "lon": 28.304,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.696_30.704": {
+    "lat": -1.696,
+    "lon": 30.704,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.7_30.9": {
+    "lat": -1.7,
+    "lon": 30.9,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.712_28.688": {
+    "lat": -1.712,
+    "lon": 28.688,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.718_30.382": {
+    "lat": -1.718,
+    "lon": 30.382,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.729_30.471": {
+    "lat": -1.729,
+    "lon": 30.471,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.73_28.47": {
+    "lat": -1.73,
+    "lon": 28.47,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.737_30.063": {
+    "lat": -1.737,
+    "lon": 30.063,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.743_29.457": {
+    "lat": -1.743,
+    "lon": 29.457,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.753_28.547": {
+    "lat": -1.753,
+    "lon": 28.547,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.764_31.436": {
+    "lat": -1.764,
+    "lon": 31.436,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.77_29.13": {
+    "lat": -1.77,
+    "lon": 29.13,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.77_31.03": {
+    "lat": -1.77,
+    "lon": 31.03,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.783_31.117": {
+    "lat": -1.783,
+    "lon": 31.117,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.792_30.408": {
+    "lat": -1.792,
+    "lon": 30.408,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.797_30.303": {
+    "lat": -1.797,
+    "lon": 30.303,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.799_28.601": {
+    "lat": -1.799,
+    "lon": 28.601,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.802_29.798": {
+    "lat": -1.802,
+    "lon": 29.798,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.802_31.198": {
+    "lat": -1.802,
+    "lon": 31.198,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.804_31.196": {
+    "lat": -1.804,
+    "lon": 31.196,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.807_30.093": {
+    "lat": -1.807,
+    "lon": 30.093,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.808_29.892": {
+    "lat": -1.808,
+    "lon": 29.892,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.82_31.28": {
+    "lat": -1.82,
+    "lon": 31.28,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.833_28.467": {
+    "lat": -1.833,
+    "lon": 28.467,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.839_28.761": {
+    "lat": -1.839,
+    "lon": 28.761,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.839_30.961": {
+    "lat": -1.839,
+    "lon": 30.961,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.844_30.356": {
+    "lat": -1.844,
+    "lon": 30.356,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.845_29.355": {
+    "lat": -1.845,
+    "lon": 29.355,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.846_29.554": {
+    "lat": -1.846,
+    "lon": 29.554,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.847_28.753": {
+    "lat": -1.847,
+    "lon": 28.753,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.847_30.953": {
+    "lat": -1.847,
+    "lon": 30.953,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.851_30.949": {
+    "lat": -1.851,
+    "lon": 30.949,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.852_29.948": {
+    "lat": -1.852,
+    "lon": 29.948,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.858_31.442": {
+    "lat": -1.858,
+    "lon": 31.442,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.861_30.939": {
+    "lat": -1.861,
+    "lon": 30.939,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.868_29.832": {
+    "lat": -1.868,
+    "lon": 29.832,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.871_29.729": {
+    "lat": -1.871,
+    "lon": 29.729,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.877_28.523": {
+    "lat": -1.877,
+    "lon": 28.523,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.877_30.623": {
+    "lat": -1.877,
+    "lon": 30.623,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.88_30.72": {
+    "lat": -1.88,
+    "lon": 30.72,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.882_28.718": {
+    "lat": -1.882,
+    "lon": 28.718,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.882_30.018": {
+    "lat": -1.882,
+    "lon": 30.018,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.889_29.611": {
+    "lat": -1.889,
+    "lon": 29.611,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.899_31.201": {
+    "lat": -1.899,
+    "lon": 31.201,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.9_29.5": {
+    "lat": -1.9,
+    "lon": 29.5,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.902_28.398": {
+    "lat": -1.902,
+    "lon": 28.398,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.903_28.297": {
+    "lat": -1.903,
+    "lon": 28.297,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.906_29.694": {
+    "lat": -1.906,
+    "lon": 29.694,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.911_29.389": {
+    "lat": -1.911,
+    "lon": 29.389,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.911_30.189": {
+    "lat": -1.911,
+    "lon": 30.189,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.92_29.68": {
+    "lat": -1.92,
+    "lon": 29.68,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.922_29.178": {
+    "lat": -1.922,
+    "lon": 29.178,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.923_29.777": {
+    "lat": -1.923,
+    "lon": 29.777,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-1.926_28.474": {
+    "lat": -1.926,
+    "lon": 28.474,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.929_28.771": {
+    "lat": -1.929,
+    "lon": 28.771,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.932_31.068": {
+    "lat": -1.932,
+    "lon": 31.068,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.933_30.367": {
+    "lat": -1.933,
+    "lon": 30.367,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.938_31.362": {
+    "lat": -1.938,
+    "lon": 31.362,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.944_28.556": {
+    "lat": -1.944,
+    "lon": 28.556,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.945_29.155": {
+    "lat": -1.945,
+    "lon": 29.155,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.951_28.649": {
+    "lat": -1.951,
+    "lon": 28.649,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.959_30.341": {
+    "lat": -1.959,
+    "lon": 30.341,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.961_28.939": {
+    "lat": -1.961,
+    "lon": 28.939,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.961_31.339": {
+    "lat": -1.961,
+    "lon": 31.339,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.968_30.932": {
+    "lat": -1.968,
+    "lon": 30.932,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.974_28.526": {
+    "lat": -1.974,
+    "lon": 28.526,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-1.978_31.122": {
+    "lat": -1.978,
+    "lon": 31.122,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.981_31.219": {
+    "lat": -1.981,
+    "lon": 31.219,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-1.99_30.41": {
+    "lat": -1.99,
+    "lon": 30.41,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.015_30.985": {
+    "lat": -2.015,
+    "lon": 30.985,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.016_31.184": {
+    "lat": -2.016,
+    "lon": 31.184,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.018_28.882": {
+    "lat": -2.018,
+    "lon": 28.882,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.032_29.168": {
+    "lat": -2.032,
+    "lon": 29.168,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.041_30.559": {
+    "lat": -2.041,
+    "lon": 30.559,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.049_29.151": {
+    "lat": -2.049,
+    "lon": 29.151,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.049_29.551": {
+    "lat": -2.049,
+    "lon": 29.551,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.049_30.751": {
+    "lat": -2.049,
+    "lon": 30.751,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.051_29.949": {
+    "lat": -2.051,
+    "lon": 29.949,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.053_30.647": {
+    "lat": -2.053,
+    "lon": 30.647,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.055_30.845": {
+    "lat": -2.055,
+    "lon": 30.845,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.056_30.544": {
+    "lat": -2.056,
+    "lon": 30.544,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.058_30.642": {
+    "lat": -2.058,
+    "lon": 30.642,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.059_28.741": {
+    "lat": -2.059,
+    "lon": 28.741,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.065_30.235": {
+    "lat": -2.065,
+    "lon": 30.235,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.07_29.23": {
+    "lat": -2.07,
+    "lon": 29.23,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.073_28.627": {
+    "lat": -2.073,
+    "lon": 28.627,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.079_29.321": {
+    "lat": -2.079,
+    "lon": 29.321,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.08_28.62": {
+    "lat": -2.08,
+    "lon": 28.62,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.082_29.218": {
+    "lat": -2.082,
+    "lon": 29.218,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.082_30.418": {
+    "lat": -2.082,
+    "lon": 30.418,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.091_30.709": {
+    "lat": -2.091,
+    "lon": 30.709,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.096_28.404": {
+    "lat": -2.096,
+    "lon": 28.404,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.102_29.898": {
+    "lat": -2.102,
+    "lon": 29.898,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.119_29.281": {
+    "lat": -2.119,
+    "lon": 29.281,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.123_28.977": {
+    "lat": -2.123,
+    "lon": 28.977,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.123_31.277": {
+    "lat": -2.123,
+    "lon": 31.277,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.125_30.375": {
+    "lat": -2.125,
+    "lon": 30.375,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.133_30.467": {
+    "lat": -2.133,
+    "lon": 30.467,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.136_30.264": {
+    "lat": -2.136,
+    "lon": 30.264,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.153_29.947": {
+    "lat": -2.153,
+    "lon": 29.947,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.154_29.946": {
+    "lat": -2.154,
+    "lon": 29.946,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.162_30.138": {
+    "lat": -2.162,
+    "lon": 30.138,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.166_31.234": {
+    "lat": -2.166,
+    "lon": 31.234,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.171_28.629": {
+    "lat": -2.171,
+    "lon": 28.629,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.176_29.324": {
+    "lat": -2.176,
+    "lon": 29.324,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.177_30.223": {
+    "lat": -2.177,
+    "lon": 30.223,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.179_29.121": {
+    "lat": -2.179,
+    "lon": 29.121,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.179_30.621": {
+    "lat": -2.179,
+    "lon": 30.621,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.18_29.62": {
+    "lat": -2.18,
+    "lon": 29.62,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.183_30.917": {
+    "lat": -2.183,
+    "lon": 30.917,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.185_29.515": {
+    "lat": -2.185,
+    "lon": 29.515,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.185_30.515": {
+    "lat": -2.185,
+    "lon": 30.515,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.194_29.506": {
+    "lat": -2.194,
+    "lon": 29.506,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.204_30.996": {
+    "lat": -2.204,
+    "lon": 30.996,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.235_30.765": {
+    "lat": -2.235,
+    "lon": 30.765,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.237_30.763": {
+    "lat": -2.237,
+    "lon": 30.763,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.248_28.652": {
+    "lat": -2.248,
+    "lon": 28.652,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.254_30.446": {
+    "lat": -2.254,
+    "lon": 30.446,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.255_28.645": {
+    "lat": -2.255,
+    "lon": 28.645,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.256_28.744": {
+    "lat": -2.256,
+    "lon": 28.744,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.257_30.243": {
+    "lat": -2.257,
+    "lon": 30.243,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.26_30.84": {
+    "lat": -2.26,
+    "lon": 30.84,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.262_30.838": {
+    "lat": -2.262,
+    "lon": 30.838,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.267_29.933": {
+    "lat": -2.267,
+    "lon": 29.933,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.269_30.231": {
+    "lat": -2.269,
+    "lon": 30.231,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.271_29.929": {
+    "lat": -2.271,
+    "lon": 29.929,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.272_29.128": {
+    "lat": -2.272,
+    "lon": 29.128,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.278_29.722": {
+    "lat": -2.278,
+    "lon": 29.722,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.28_29.92": {
+    "lat": -2.28,
+    "lon": 29.92,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.282_29.018": {
+    "lat": -2.282,
+    "lon": 29.018,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.291_29.609": {
+    "lat": -2.291,
+    "lon": 29.609,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.293_29.507": {
+    "lat": -2.293,
+    "lon": 29.507,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.3_29.2": {
+    "lat": -2.3,
+    "lon": 29.2,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.301_29.899": {
+    "lat": -2.301,
+    "lon": 29.899,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.302_29.198": {
+    "lat": -2.302,
+    "lon": 29.198,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.311_29.489": {
+    "lat": -2.311,
+    "lon": 29.489,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.313_29.787": {
+    "lat": -2.313,
+    "lon": 29.787,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.317_28.883": {
+    "lat": -2.317,
+    "lon": 28.883,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.319_31.181": {
+    "lat": -2.319,
+    "lon": 31.181,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.329_28.671": {
+    "lat": -2.329,
+    "lon": 28.671,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.329_30.071": {
+    "lat": -2.329,
+    "lon": 30.071,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.33_29.57": {
+    "lat": -2.33,
+    "lon": 29.57,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.335_29.665": {
+    "lat": -2.335,
+    "lon": 29.665,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.339_28.461": {
+    "lat": -2.339,
+    "lon": 28.461,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.341_29.059": {
+    "lat": -2.341,
+    "lon": 29.059,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.342_29.458": {
+    "lat": -2.342,
+    "lon": 29.458,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.353_30.847": {
+    "lat": -2.353,
+    "lon": 30.847,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.362_30.638": {
+    "lat": -2.362,
+    "lon": 30.638,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.365_30.535": {
+    "lat": -2.365,
+    "lon": 30.535,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.376_29.924": {
+    "lat": -2.376,
+    "lon": 29.924,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.378_29.222": {
+    "lat": -2.378,
+    "lon": 29.222,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.385_28.715": {
+    "lat": -2.385,
+    "lon": 28.715,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.386_30.314": {
+    "lat": -2.386,
+    "lon": 30.314,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.399_29.901": {
+    "lat": -2.399,
+    "lon": 29.901,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.404_30.496": {
+    "lat": -2.404,
+    "lon": 30.496,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.407_29.393": {
+    "lat": -2.407,
+    "lon": 29.393,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.422_28.778": {
+    "lat": -2.422,
+    "lon": 28.778,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.427_28.673": {
+    "lat": -2.427,
+    "lon": 28.673,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.431_29.269": {
+    "lat": -2.431,
+    "lon": 29.269,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.432_29.568": {
+    "lat": -2.432,
+    "lon": 29.568,
+    "type": "urban",
+    "region": "Central Rwanda (Kigali Area)",
+    "source": "both"
+  },
+  "LOC_-2.436_30.464": {
+    "lat": -2.436,
+    "lon": 30.464,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.44_29.06": {
+    "lat": -2.44,
+    "lon": 29.06,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.441_28.959": {
+    "lat": -2.441,
+    "lon": 28.959,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.443_28.657": {
+    "lat": -2.443,
+    "lon": 28.657,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.447_28.353": {
+    "lat": -2.447,
+    "lon": 28.353,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.451_28.249": {
+    "lat": -2.451,
+    "lon": 28.249,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.466_30.334": {
+    "lat": -2.466,
+    "lon": 30.334,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.479_29.421": {
+    "lat": -2.479,
+    "lon": 29.421,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.484_30.116": {
+    "lat": -2.484,
+    "lon": 30.116,
+    "type": "urban",
+    "region": "Central-Eastern Region",
+    "source": "both"
+  },
+  "LOC_-2.489_28.811": {
+    "lat": -2.489,
+    "lon": 28.811,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.491_29.309": {
+    "lat": -2.491,
+    "lon": 29.309,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.496_28.504": {
+    "lat": -2.496,
+    "lon": 28.504,
+    "type": "urban",
+    "region": "Western Region",
+    "source": "both"
+  },
+  "LOC_-2.517_29.883": {
+    "lat": -2.517,
+    "lon": 29.883,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.521_29.179": {
+    "lat": -2.521,
+    "lon": 29.179,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.522_29.078": {
+    "lat": -2.522,
+    "lon": 29.078,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.539_28.461": {
+    "lat": -2.539,
+    "lon": 28.461,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.548_29.752": {
+    "lat": -2.548,
+    "lon": 29.752,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.555_29.145": {
+    "lat": -2.555,
+    "lon": 29.145,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.561_29.839": {
+    "lat": -2.561,
+    "lon": 29.839,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.571_30.029": {
+    "lat": -2.571,
+    "lon": 30.029,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.583_29.617": {
+    "lat": -2.583,
+    "lon": 29.617,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.588_29.912": {
+    "lat": -2.588,
+    "lon": 29.912,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.589_28.311": {
+    "lat": -2.589,
+    "lon": 28.311,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.595_28.905": {
+    "lat": -2.595,
+    "lon": 28.905,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.599_29.801": {
+    "lat": -2.599,
+    "lon": 29.801,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.602_29.898": {
+    "lat": -2.602,
+    "lon": 29.898,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.61_28.79": {
+    "lat": -2.61,
+    "lon": 28.79,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.623_28.977": {
+    "lat": -2.623,
+    "lon": 28.977,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.638_29.562": {
+    "lat": -2.638,
+    "lon": 29.562,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.64_29.46": {
+    "lat": -2.64,
+    "lon": 29.46,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.643_29.257": {
+    "lat": -2.643,
+    "lon": 29.257,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.649_28.651": {
+    "lat": -2.649,
+    "lon": 28.651,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.652_29.148": {
+    "lat": -2.652,
+    "lon": 29.148,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.655_30.245": {
+    "lat": -2.655,
+    "lon": 30.245,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.656_29.744": {
+    "lat": -2.656,
+    "lon": 29.744,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.656_30.944": {
+    "lat": -2.656,
+    "lon": 30.944,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.662_30.138": {
+    "lat": -2.662,
+    "lon": 30.138,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.673_29.327": {
+    "lat": -2.673,
+    "lon": 29.327,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.676_28.724": {
+    "lat": -2.676,
+    "lon": 28.724,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.689_28.811": {
+    "lat": -2.689,
+    "lon": 28.811,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.693_28.607": {
+    "lat": -2.693,
+    "lon": 28.607,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.696_29.304": {
+    "lat": -2.696,
+    "lon": 29.304,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.697_29.403": {
+    "lat": -2.697,
+    "lon": 29.403,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.7_29.5": {
+    "lat": -2.7,
+    "lon": 29.5,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.71_30.19": {
+    "lat": -2.71,
+    "lon": 30.19,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.712_29.488": {
+    "lat": -2.712,
+    "lon": 29.488,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.719_30.281": {
+    "lat": -2.719,
+    "lon": 30.281,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.719_30.981": {
+    "lat": -2.719,
+    "lon": 30.981,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.721_29.979": {
+    "lat": -2.721,
+    "lon": 29.979,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.726_30.474": {
+    "lat": -2.726,
+    "lon": 30.474,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.734_29.766": {
+    "lat": -2.734,
+    "lon": 29.766,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.74_29.66": {
+    "lat": -2.74,
+    "lon": 29.66,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.751_29.249": {
+    "lat": -2.751,
+    "lon": 29.249,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.752_30.048": {
+    "lat": -2.752,
+    "lon": 30.048,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.757_29.543": {
+    "lat": -2.757,
+    "lon": 29.543,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.761_28.439": {
+    "lat": -2.761,
+    "lon": 28.439,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.763_30.337": {
+    "lat": -2.763,
+    "lon": 30.337,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.764_29.136": {
+    "lat": -2.764,
+    "lon": 29.136,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.766_30.734": {
+    "lat": -2.766,
+    "lon": 30.734,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.77_28.93": {
+    "lat": -2.77,
+    "lon": 28.93,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.771_30.029": {
+    "lat": -2.771,
+    "lon": 30.029,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.772_30.928": {
+    "lat": -2.772,
+    "lon": 30.928,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.783_28.817": {
+    "lat": -2.783,
+    "lon": 28.817,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.794_28.306": {
+    "lat": -2.794,
+    "lon": 28.306,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.812_30.488": {
+    "lat": -2.812,
+    "lon": 30.488,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.815_30.285": {
+    "lat": -2.815,
+    "lon": 30.285,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.817_29.283": {
+    "lat": -2.817,
+    "lon": 29.283,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.817_29.783": {
+    "lat": -2.817,
+    "lon": 29.783,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.818_29.582": {
+    "lat": -2.818,
+    "lon": 29.582,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.819_29.981": {
+    "lat": -2.819,
+    "lon": 29.981,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.82_28.38": {
+    "lat": -2.82,
+    "lon": 28.38,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.821_29.479": {
+    "lat": -2.821,
+    "lon": 29.479,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.828_29.872": {
+    "lat": -2.828,
+    "lon": 29.872,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.834_30.466": {
+    "lat": -2.834,
+    "lon": 30.466,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.836_30.064": {
+    "lat": -2.836,
+    "lon": 30.064,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.836_30.364": {
+    "lat": -2.836,
+    "lon": 30.364,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.839_28.861": {
+    "lat": -2.839,
+    "lon": 28.861,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.841_28.659": {
+    "lat": -2.841,
+    "lon": 28.659,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.841_29.159": {
+    "lat": -2.841,
+    "lon": 29.159,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.842_28.958": {
+    "lat": -2.842,
+    "lon": 28.958,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.846_28.454": {
+    "lat": -2.846,
+    "lon": 28.454,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.851_30.249": {
+    "lat": -2.851,
+    "lon": 30.249,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.853_28.547": {
+    "lat": -2.853,
+    "lon": 28.547,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.855_29.145": {
+    "lat": -2.855,
+    "lon": 29.145,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.858_28.642": {
+    "lat": -2.858,
+    "lon": 28.642,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.859_29.041": {
+    "lat": -2.859,
+    "lon": 29.041,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.859_29.441": {
+    "lat": -2.859,
+    "lon": 29.441,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.86_28.74": {
+    "lat": -2.86,
+    "lon": 28.74,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.879_30.621": {
+    "lat": -2.879,
+    "lon": 30.621,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.883_29.017": {
+    "lat": -2.883,
+    "lon": 29.017,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.896_29.404": {
+    "lat": -2.896,
+    "lon": 29.404,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.898_29.002": {
+    "lat": -2.898,
+    "lon": 29.002,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.899_29.601": {
+    "lat": -2.899,
+    "lon": 29.601,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.9_29.3": {
+    "lat": -2.9,
+    "lon": 29.3,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.902_30.398": {
+    "lat": -2.902,
+    "lon": 30.398,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.922_29.178": {
+    "lat": -2.922,
+    "lon": 29.178,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.924_29.976": {
+    "lat": -2.924,
+    "lon": 29.976,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.929_29.771": {
+    "lat": -2.929,
+    "lon": 29.771,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.931_29.569": {
+    "lat": -2.931,
+    "lon": 29.569,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.935_29.565": {
+    "lat": -2.935,
+    "lon": 29.565,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-2.939_30.461": {
+    "lat": -2.939,
+    "lon": 30.461,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.944_29.356": {
+    "lat": -2.944,
+    "lon": 29.356,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.946_30.454": {
+    "lat": -2.946,
+    "lon": 30.454,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.955_30.245": {
+    "lat": -2.955,
+    "lon": 30.245,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.958_29.442": {
+    "lat": -2.958,
+    "lon": 29.442,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.959_30.641": {
+    "lat": -2.959,
+    "lon": 30.641,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.97_30.03": {
+    "lat": -2.97,
+    "lon": 30.03,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.972_28.228": {
+    "lat": -2.972,
+    "lon": 28.228,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.979_30.021": {
+    "lat": -2.979,
+    "lon": 30.021,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.985_30.415": {
+    "lat": -2.985,
+    "lon": 30.415,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-2.986_29.114": {
+    "lat": -2.986,
+    "lon": 29.114,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-2.999_30.701": {
+    "lat": -2.999,
+    "lon": 30.701,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-3.016_30.384": {
+    "lat": -3.016,
+    "lon": 30.384,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-3.016_30.584": {
+    "lat": -3.016,
+    "lon": 30.584,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-3.023_30.177": {
+    "lat": -3.023,
+    "lon": 30.177,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-3.025_30.275": {
+    "lat": -3.025,
+    "lon": 30.275,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-3.028_28.872": {
+    "lat": -3.028,
+    "lon": 28.872,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-3.032_29.168": {
+    "lat": -3.032,
+    "lon": 29.168,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-3.047_28.753": {
+    "lat": -3.047,
+    "lon": 28.753,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-3.054_29.046": {
+    "lat": -3.054,
+    "lon": 29.046,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-3.095_29.505": {
+    "lat": -3.095,
+    "lon": 29.505,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-3.099_29.601": {
+    "lat": -3.099,
+    "lon": 29.601,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-3.133_29.467": {
+    "lat": -3.133,
+    "lon": 29.467,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-3.136_30.364": {
+    "lat": -3.136,
+    "lon": 30.364,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-3.138_30.662": {
+    "lat": -3.138,
+    "lon": 30.662,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-3.153_30.347": {
+    "lat": -3.153,
+    "lon": 30.347,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  },
+  "LOC_-3.161_28.839": {
+    "lat": -3.161,
+    "lon": 28.839,
+    "type": "coastal",
+    "region": "Western Province (Lake Kivu)",
+    "source": "both"
+  },
+  "LOC_-3.174_29.926": {
+    "lat": -3.174,
+    "lon": 29.926,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-3.287_29.713": {
+    "lat": -3.287,
+    "lon": 29.713,
+    "type": "coastal",
+    "region": "Southern Province",
+    "source": "both"
+  },
+  "LOC_-3.299_30.301": {
+    "lat": -3.299,
+    "lon": 30.301,
+    "type": "industrial",
+    "region": "Southeastern Region",
+    "source": "both"
+  }
+}

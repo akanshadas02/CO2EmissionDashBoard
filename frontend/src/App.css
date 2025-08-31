@@ -1,0 +1,645 @@
+/* Enhanced App.css for Rwanda CO2 Dashboard */
+.App {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #1f2937 0%, #111827 50%, #0f172a 100%);
+  position: relative;
+}
+
+.App::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: 
+    radial-gradient(circle at 20% 80%, rgba(59, 130, 246, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(16, 185, 129, 0.1) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Enhanced scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #374151;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #6b7280, #9ca3af);
+  border-radius: 5px;
+  border: 1px solid #4b5563;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #9ca3af, #d1d5db);
+}
+
+/* Enhanced animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes glow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(59, 130, 246, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(59, 130, 246, 0.5);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.8s ease-out;
+}
+
+.animate-slide-in-left {
+  animation: slideInLeft 0.6s ease-out;
+}
+
+/* Enhanced location cards */
+.location-card {
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+}
+
+.location-card:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: 
+    0 20px 40px rgba(0, 0, 0, 0.4),
+    0 0 0 1px rgba(255, 255, 255, 0.1);
+}
+
+.location-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
+  transition: left 0.6s ease;
+}
+
+.location-card:hover::before {
+  left: 100%;
+}
+
+.selected-location {
+  border: 2px solid #3b82f6 !important;
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.2), rgba(59, 130, 246, 0.1)) !important;
+  animation: glow 2s infinite;
+  transform: scale(1.05);
+}
+
+/* Enhanced map container */
+.map-container {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 
+    0 25px 50px rgba(0,0,0,0.4),
+    inset 0 1px 0 rgba(255,255,255,0.1);
+  background: linear-gradient(135deg, #1f2937, #111827);
+}
+
+.map-container::after {
+  content: 'Click markers for detailed analysis • Drag to pan • Scroll to zoom';
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0,0,0,0.8);
+  color: #60a5fa;
+  padding: 10px 20px;
+  border-radius: 25px;
+  font-size: 12px;
+  z-index: 1000;
+  pointer-events: none;
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  backdrop-filter: blur(10px);
+}
+
+/* Enhanced chart containers */
+.chart-container {
+  position: relative;
+  width: 100%;
+  min-height: 400px;
+  border-radius: 16px;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Plotly chart customizations */
+.js-plotly-plot {
+  border-radius: 12px;
+}
+
+.js-plotly-plot .plotly {
+  border-radius: 12px;
+}
+
+/* Status indicators with enhanced effects */
+.emission-high {
+  background: linear-gradient(135deg, #dc2626, #b91c1c);
+  box-shadow: 
+    0 0 20px rgba(220, 38, 38, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  animation: pulse 2s infinite;
+}
+
+.emission-medium {
+  background: linear-gradient(135deg, #ea580c, #d97706);
+  box-shadow: 
+    0 0 20px rgba(234, 88, 12, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+.emission-low {
+  background: linear-gradient(135deg, #059669, #047857);
+  box-shadow: 
+    0 0 20px rgba(5, 150, 105, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+/* Real-time indicator */
+.real-time-indicator {
+  position: relative;
+}
+
+.real-time-indicator::before {
+  content: '●';
+  color: #10b981;
+  margin-right: 8px;
+  animation: pulse 2s infinite;
+  font-size: 12px;
+}
+
+/* Enhanced statistics cards */
+.stat-card {
+  background: linear-gradient(135deg, rgba(55, 65, 81, 0.8), rgba(75, 85, 99, 0.6));
+  border: 1px solid rgba(156, 163, 175, 0.2);
+  border-radius: 16px;
+  padding: 24px;
+  text-align: center;
+  transition: all 0.4s ease;
+  backdrop-filter: blur(10px);
+  position: relative;
+  overflow: hidden;
+}
+
+.stat-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #3b82f6, #10b981, #f59e0b);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-5px);
+  border-color: rgba(59, 130, 246, 0.5);
+  box-shadow: 
+    0 15px 40px rgba(0,0,0,0.3),
+    0 0 0 1px rgba(59, 130, 246, 0.2);
+}
+
+.stat-card:hover::before {
+  opacity: 1;
+}
+
+/* Gas indicator enhancements */
+.gas-indicator {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 10px;
+  font-weight: bold;
+  margin-right: 6px;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.gas-indicator:hover {
+  transform: scale(1.1);
+}
+
+.gas-so2 { 
+  background: linear-gradient(135deg, #ef4444, #dc2626); 
+  color: white; 
+  box-shadow: 0 4px 8px rgba(239, 68, 68, 0.3);
+}
+
+.gas-no2 { 
+  background: linear-gradient(135deg, #f59e0b, #d97706); 
+  color: white; 
+  box-shadow: 0 4px 8px rgba(245, 158, 11, 0.3);
+}
+
+.gas-co { 
+  background: linear-gradient(135deg, #10b981, #059669); 
+  color: white; 
+  box-shadow: 0 4px 8px rgba(16, 185, 129, 0.3);
+}
+
+/* Enhanced responsive design */
+.dashboard-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .chart-container {
+    min-height: 320px;
+  }
+  
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .location-card {
+    padding: 16px;
+  }
+  
+  .map-container::after {
+    font-size: 10px;
+    padding: 8px 16px;
+    bottom: 10px;
+  }
+  
+  .stat-card {
+    padding: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .chart-container {
+    min-height: 280px;
+  }
+  
+  .location-card {
+    padding: 12px;
+  }
+  
+  .App {
+    padding: 1rem;
+  }
+}
+
+/* Enhanced button styles */
+.btn-primary {
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: none;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+}
+
+.btn-primary::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+  transition: left 0.5s;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(59, 130, 246, 0.4);
+}
+
+.btn-primary:hover::before {
+  left: 100%;
+}
+
+.btn-secondary {
+  background: linear-gradient(135deg, #6b7280, #4b5563);
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(107, 114, 128, 0.3);
+}
+
+.btn-secondary:hover {
+  background: linear-gradient(135deg, #4b5563, #374151);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(107, 114, 128, 0.4);
+}
+
+/* Data freshness indicators with enhanced animations */
+.data-fresh {
+  color: #10b981;
+  position: relative;
+}
+
+.data-fresh::before {
+  content: '●';
+  margin-right: 6px;
+  animation: pulse 1.5s infinite;
+}
+
+.data-stale {
+  color: #f59e0b;
+  position: relative;
+}
+
+.data-stale::before {
+  content: '●';
+  margin-right: 6px;
+  animation: pulse 2s infinite;
+}
+
+.data-error {
+  color: #ef4444;
+  position: relative;
+}
+
+.data-error::before {
+  content: '●';
+  margin-right: 6px;
+  animation: pulse 1s infinite;
+}
+
+/* Loading enhancements */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(1.05);
+  }
+}
+
+.loading-spinner {
+  animation: spin 1s linear infinite;
+}
+
+.status-pulse {
+  animation: pulse 2s infinite;
+}
+
+/* Enhanced backdrop blur effects */
+.backdrop-blur-enhanced {
+  backdrop-filter: blur(12px) saturate(1.2);
+  background: rgba(31, 41, 55, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Gradient text effects */
+.gradient-text-blue {
+  background: linear-gradient(135deg, #3b82f6, #60a5fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-green {
+  background: linear-gradient(135deg, #10b981, #34d399);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-text-red {
+  background: linear-gradient(135deg, #ef4444, #f87171);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Interactive hover effects for data cards */
+.data-card {
+  transition: all 0.3s ease;
+  position: relative;
+  background: linear-gradient(135deg, rgba(55, 65, 81, 0.9), rgba(75, 85, 99, 0.7));
+  border: 1px solid rgba(156, 163, 175, 0.2);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+}
+
+.data-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(59, 130, 246, 0.5);
+  box-shadow: 
+    0 15px 35px rgba(0,0,0,0.3),
+    0 0 0 1px rgba(59, 130, 246, 0.2);
+}
+
+/* Map marker enhancement classes */
+.marker-high-emission {
+  filter: drop-shadow(0 0 10px rgba(239, 68, 68, 0.8));
+}
+
+.marker-medium-emission {
+  filter: drop-shadow(0 0 8px rgba(245, 158, 11, 0.8));
+}
+
+.marker-low-emission {
+  filter: drop-shadow(0 0 6px rgba(16, 185, 129, 0.8));
+}
+
+/* Export button styling */
+.export-btn {
+  background: linear-gradient(135deg, #059669, #047857);
+  color: white;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+  font-size: 0.875rem;
+  box-shadow: 0 4px 12px rgba(5, 150, 105, 0.3);
+}
+
+.export-btn:hover {
+  background: linear-gradient(135deg, #047857, #065f46);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(5, 150, 105, 0.4);
+}
+
+/* Location type badges */
+.location-type-industrial {
+  background: linear-gradient(135deg, #dc2626, #b91c1c);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.location-type-urban {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.location-type-coastal {
+  background: linear-gradient(135deg, #059669, #047857);
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+/* Enhanced footer styling */
+.footer-enhanced {
+  background: linear-gradient(135deg, rgba(31, 41, 55, 0.8), rgba(17, 24, 39, 0.9));
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+}
+
+/* Correlation visualization enhancements */
+.correlation-positive {
+  fill: #10b981;
+  filter: drop-shadow(0 0 5px rgba(16, 185, 129, 0.5));
+}
+
+.correlation-negative {
+  fill: #ef4444;
+  filter: drop-shadow(0 0 5px rgba(239, 68, 68, 0.5));
+}
+
+.correlation-neutral {
+  fill: #6b7280;
+}
+
+/* Enhanced selection state */
+.location-selected {
+  border: 3px solid #3b82f6 !important;
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.25), rgba(59, 130, 246, 0.15)) !important;
+  box-shadow: 
+    0 0 30px rgba(59, 130, 246, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+  transform: scale(1.05);
+  z-index: 10;
+  position: relative;
+}
+
+/* Text glow effects for important data */
+.text-glow-blue {
+  text-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+}
+
+.text-glow-green {
+  text-shadow: 0 0 10px rgba(16, 185, 129, 0.5);
+}
+
+.text-glow-red {
+  text-shadow: 0 0 10px rgba(239, 68, 68, 0.5);
+}
+
+.text-glow-yellow {
+  text-shadow: 0 0 10px rgba(245, 158, 11, 0.5);
+}
+
+/* Chart hover enhancements */
+.plotly:hover {
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+/* Map zoom controls styling */
+.mapboxgl-ctrl-group {
+  background: rgba(31, 41, 55, 0.9) !important;
+  border-radius: 8px !important;
+  backdrop-filter: blur(10px) !important;
+}
+
+.mapboxgl-ctrl-group button {
+  background: rgba(55, 65, 81, 0.8) !important;
+  color: white !important;
+  border-color: rgba(156, 163, 175, 0.3) !important;
+}
+
+.mapboxgl-ctrl-group button:hover {
+  background: rgba(75, 85, 99, 0.9) !important;
+}
+
+/* Enhanced transitions for smooth interactions */
+* {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 300ms;
+}
+
+/* Performance optimizations */
+.chart-container,
+.map-container,
+.location-card {
+  will-change: transform;
+}
+
+/* Print styles */
+@media print {
+  .App {
+    background: white !important;
+    color: black !important;
+  }
+  
+  .location-card,
+  .stat-card,
+  .data-card {
+    background: white !important;
+    border: 1px solid #ccc !important;
+    color: black !important;
+  }
+  
+  .map-container::after {
+    display: none;
+  }
+}

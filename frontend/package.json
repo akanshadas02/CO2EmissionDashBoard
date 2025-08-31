@@ -1,0 +1,71 @@
+{
+  "name": "rwanda-co2-emissions-dashboard",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Real-time CO2 emissions monitoring dashboard for Rwanda with interactive mapping and analytics",
+  "homepage": ".",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "plotly.js": "^2.26.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-plotly.js": "^2.6.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^3.4.0"
+  },
+  "scripts": {
+    "start": "set GENERATE_SOURCEMAP=false&& react-scripts start",
+    "build": "set GENERATE_SOURCEMAP=false&& react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "react-scripts start",
+    "build:production": "set GENERATE_SOURCEMAP=false&& react-scripts build && echo 'Build completed for production'",
+    "analyze": "npx source-map-explorer 'build/static/js/*.js'",
+    "lint": "eslint src --ext .js,.jsx",
+    "format": "prettier --write src/**/*.{js,jsx,css}",
+    "clean": "rm -rf build node_modules && npm install"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "rules": {
+      "no-unused-vars": "warn",
+      "no-console": "off"
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:5000",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "keywords": [
+    "co2-emissions",
+    "rwanda",
+    "environmental-monitoring",
+    "real-time-dashboard",
+    "mapping",
+    "data-visualization"
+  ],
+  "author": "CO2 Monitoring Team",
+  "license": "MIT"
+}
