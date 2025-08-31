@@ -19,16 +19,16 @@ co2-emissions-dashboard/
 │   ├── requirements.txt     # Python dependencies  
 │   └── emission_model_complete.pkl  # Pre-trained model (or mock model if unavailable)
 │
-├── frontend/                # React Dashboard  
-│   ├── public/
-│   │   └── index.html       # HTML template
-│   ├── src/
-│   │   ├── App.js           # Main React component
-│   │   ├── CO2EmissionsDashboard.js  # Dashboard component
-│   │   ├── index.js         # React entry point
-│   │   ├── App.css          # Application styles
-│   │   └── index.css        # Global styles + Tailwind
-│   └── package.json         # Node.js dependencies
+└── frontend/                # React Dashboard  
+    ├── public/
+    │   └── index.html       # HTML template
+    ├── src/
+    │   ├── App.js           # Main React component
+    │   ├── CO2EmissionsDashboard.js  # Dashboard component
+    │   ├── index.js         # React entry point
+    │   ├── App.css          # Application styles
+    │   └── index.css        # Global styles + Tailwind
+    └── package.json         # Node.js dependencies
 ```
 
 ---
