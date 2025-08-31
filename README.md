@@ -5,6 +5,8 @@ The system simulates monitoring stations across Rwanda, processes pollutant gas 
 
 Please Find the dataset and the model - .pkl file in the drive link: https://drive.google.com/drive/folders/1muz-pkp0DzX1aFgQ3Elkg2UkJUYKlcwP?usp=sharing
 
+Also if you want to see the dashboard demographics: https://drive.google.com/file/d/1tALl7fVkVmTS-ZggY7EsMuC9f58y8vzR/view?usp=sharing
+
 ---
 
 ## 📌 Project Structure
