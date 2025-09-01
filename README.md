@@ -46,6 +46,15 @@ co2-emissions-dashboard/
      - `/api/locations` → Returns metadata of all monitoring stations.
      - `/api/locations-geojson` → Provides data in GeoJSON format for map visualization.
      - `/api/predict` → Predicts CO₂ emissions given pollutants and location.
+       
+    1.1 **extract_location.py - Data Processing**
+         Purpose: Extracts geographic coordinates from the original dataset.
+        **What it does:**
+         Reads CSV files with emission data
+         Finds unique latitude/longitude pairs
+         Categorizes locations (urban, industrial, coastal)
+         Maps coordinates to Rwanda regions
+         Saves processed data to JSON file
 
 2. **Frontend (React + Plotly.js + TailwindCSS)**
    - Built with **React** and styled with **TailwindCSS**.
