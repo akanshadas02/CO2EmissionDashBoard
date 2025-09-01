@@ -14,9 +14,11 @@ Also if you want to see the dashboard demographics: https://drive.google.com/fil
 ```
 co2-emissions-dashboard/
 │
-├── backend/                 # Flask API Server
-│   ├── app.py               # Main Flask application
-│   ├── requirements.txt     # Python dependencies  
+├── backend/                         # Flask API Server
+│   ├── extract location             # Extract Location from the dataset
+│   ├── extracted_locations.json     # Extracted Location from the dataset saved in JSON
+│   ├── app.py                       # Main Flask application
+│   ├── requirements.txt             # Python dependencies  
 │   └── emission_model_complete.pkl  # Pre-trained model (or mock model if unavailable)
 │
 └── frontend/                # React Dashboard  
